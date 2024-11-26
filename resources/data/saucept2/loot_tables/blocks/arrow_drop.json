@@ -1,0 +1,92 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:harming"
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            },
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:poison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:weakness"
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              }
+            },
+            {
+              "function": "minecraft:set_potion",
+              "id": "minecraft:leaping"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

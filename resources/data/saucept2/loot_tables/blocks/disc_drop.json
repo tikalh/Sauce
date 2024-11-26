@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:ambient_music_disc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:dn_music_disc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:fb_music_disc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:rsa_music_disc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:sleep_music_disc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:stb_music_disc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:zb_music_disc"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:solemn_music_disc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 16,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:saucy_block"
+        }
+      ]
+    }
+  ]
+}

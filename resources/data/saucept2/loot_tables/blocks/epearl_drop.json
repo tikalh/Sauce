@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 8,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ender_pearl",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ender_eye"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

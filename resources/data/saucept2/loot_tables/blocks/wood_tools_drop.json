@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_axe",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_hoe",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_shovel",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_sword",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

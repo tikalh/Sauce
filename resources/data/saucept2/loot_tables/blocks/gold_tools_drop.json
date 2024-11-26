@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_axe",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_hoe",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_shovel",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_sword",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

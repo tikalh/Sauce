@@ -1,0 +1,80 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_helmet",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_leggings",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_boots",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_chestplate",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls":1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_sword",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

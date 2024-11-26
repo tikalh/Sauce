@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 4,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:birch_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:acacia_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jungle_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spruce_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:moss_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cocoa_beans"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sugar_cane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_mushroom"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_flower"
+        }
+      ]
+    }
+  ]
+}

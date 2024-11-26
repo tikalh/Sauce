@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "saucept2:block/saucy_block"}
+  }
+}

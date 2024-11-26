@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poppy"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "saucept2:sauce"
+        }
+      ]
+    }
+  ]
+}

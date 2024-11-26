@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:flame",
+                "minecraft:power",
+                "minecraft:infinity",
+                "minecraft:punch",
+                "minecraft:vanishing_curse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 16,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:arrow"
+        }
+      ]
+    }
+  ]
+}

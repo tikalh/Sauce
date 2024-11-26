@@ -1,0 +1,66 @@
+{
+  "shake_the_bus": {
+    "sounds": [
+      {
+        "name": "saucept2:shakethebus",
+        "stream": true
+      }
+    ]
+  },
+  "zakim_bridge": {
+    "sounds": [
+      {
+        "name": "saucept2:zakim_bridge",
+        "stream": true
+      }
+    ]
+  },
+  "dark_night": {
+    "sounds": [
+      {
+        "name": "saucept2:dark_night",
+        "stream": true
+      }
+    ]
+  },
+  "ambient": {
+    "sounds": [
+      {
+        "name": "saucept2:ambient",
+        "stream": true
+      }
+    ]
+  },
+  "falling_behind": {
+    "sounds": [
+      {
+        "name": "saucept2:falling_behind",
+        "stream": true
+      }
+    ]
+  },
+  "rsa": {
+    "sounds": [
+      {
+        "name": "saucept2:ralph_sexual_assault",
+        "stream": true
+      }
+    ]
+  },
+  "sleep": {
+    "sounds": [
+      {
+        "name": "saucept2:sleep",
+        "stream": true
+      }
+    ]
+  },
+  "solemn": {
+    "sounds": [
+      {
+        "name": "saucept2:solemn",
+        "stream": true
+      }
+    ]
+  }
+}
